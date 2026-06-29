@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![김두회's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubae)](https://github.com/anuraghazra/github-readme-stats)
+[![Dubae's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubae)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dubae/dubae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
